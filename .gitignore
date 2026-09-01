@@ -1,0 +1,13 @@
+node_modules/
+.next/
+dist/
+.vinext/
+.wrangler/
+.venv/
+.env
+.DS_Store
+data/
+backend/models/*.onnx
+*.pyc
+__pycache__/
+.pytest_cache/
